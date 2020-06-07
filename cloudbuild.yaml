@@ -6,7 +6,7 @@ steps:
     args: ["run", "build"]
 
   - name: "gcr.io/backpackybook/firebase"
-    args: [use, default]
+    args: ["use", "default"]
 
   - name: "gcr.io/backpackybook/firebase"
     args: ["deploy"]
