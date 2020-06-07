@@ -1,6 +1,5 @@
 {
   "projects": {
     "default": "backpackybook",
-    "development": "backpackybook-dev"
   }
 }
